@@ -1,0 +1,3 @@
+# Requirments for the gpio_test-admin service.
+
+# balena-sdk==11.0.0

@@ -2,6 +2,11 @@
 _*
 balena-wifi*
 
+# Python Virtual Env files
+bin/
+include/
+pyvenv.cfg
+
 # VS Code configs
 .devcontainer
 
